@@ -1,15 +1,3 @@
-#marking a journey's start and endpoints
-
-#start journey
-#end journey
-#journey complete?
-
-
-#call fare
-#entry station
-#exit station
-
-
 class Journey
 
 MINIMUM_FARE = 1
